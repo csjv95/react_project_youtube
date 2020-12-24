@@ -1,0 +1,5 @@
+.videos {
+  margin: 0.2em;
+  display: flex;
+  flex-flow: wrap;
+}

@@ -1,9 +1,11 @@
 .header {
+  margin-top: 0.5em;
   height: 4rem;
   padding: 0.8em 1em;
   display: flex;
   background-color: darkred ;
   color: white;
+  border-radius: 0.5em;
 }
 
 .title {
